@@ -684,10 +684,6 @@
     <Folder Include="command_modules\azure-cli-example\azure\cli\" />
     <Folder Include="command_modules\azure-cli-example\azure\cli\command_modules\" />
     <Folder Include="command_modules\azure-cli-example\azure\cli\command_modules\example\" />
-    <Folder Include="command_modules\azure-cli-example\azure\cli\command_modules\example\__pycache__\" />
-    <Folder Include="command_modules\azure-cli-example\azure\cli\command_modules\__pycache__\" />
-    <Folder Include="command_modules\azure-cli-example\azure\cli\__pycache__\" />
-    <Folder Include="command_modules\azure-cli-example\azure\__pycache__\" />
     <Folder Include="command_modules\azure-cli-feedback\" />
     <Folder Include="command_modules\azure-cli-feedback\azure\" />
     <Folder Include="command_modules\azure-cli-feedback\azure\cli\" />
@@ -834,12 +830,6 @@
     <Content Include="command_modules\azure-cli-dls\HISTORY.rst" />
     <Content Include="command_modules\azure-cli-dls\MANIFEST.in" />
     <Content Include="command_modules\azure-cli-dls\README.rst" />
-    <Content Include="command_modules\azure-cli-example\azure\cli\command_modules\example\__pycache__\commands.cpython-35.pyc" />
-    <Content Include="command_modules\azure-cli-example\azure\cli\command_modules\example\__pycache__\params.cpython-35.pyc" />
-    <Content Include="command_modules\azure-cli-example\azure\cli\command_modules\example\__pycache__\__init__.cpython-35.pyc" />
-    <Content Include="command_modules\azure-cli-example\azure\cli\command_modules\__pycache__\__init__.cpython-35.pyc" />
-    <Content Include="command_modules\azure-cli-example\azure\cli\__pycache__\__init__.cpython-35.pyc" />
-    <Content Include="command_modules\azure-cli-example\azure\__pycache__\__init__.cpython-35.pyc" />
     <Content Include="command_modules\azure-cli-example\README.rst" />
     <Content Include="command_modules\azure-cli-find\HISTORY.rst" />
     <Content Include="command_modules\azure-cli-find\MANIFEST.in" />
